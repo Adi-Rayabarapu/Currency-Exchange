@@ -1,13 +1,13 @@
 # Currency-Exchange
 The Currency Exchanger App is a simple and efficient tool designed to convert one currency to another in real-time. Built using HTML, CSS, and JavaScript, this app provides a user-friendly interface for exchanging currencies with the latest exchange rates.
 
-# Working of AP:
+Working of AP:
 
 The user selects the currencies they want to convert from and to, along with the amount they wish to convert.
 Upon clicking the "Convert" button, the app uses JavaScript to calculate the conversion based on live exchange rates.
 The result is displayed to the user immediately, with a clear and easy-to-read format.
 
-# Technologies Used:
+Technologies Used:
 
 HTML: To structure the content of the app.
 CSS: To style the app and create a responsive, visually appealing design.
